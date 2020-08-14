@@ -8,4 +8,4 @@ end
 
 
 class Person
-  attr_accessor :
+  attr_accessor :name, :birthday, :hair_color, :eye_color, :height,
