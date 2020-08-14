@@ -5,3 +5,7 @@ class Person
     attributes.each {|key| self.send(("#{key}="), value)}
   end
 end
+
+
+class Person
+  attr_accessor :
